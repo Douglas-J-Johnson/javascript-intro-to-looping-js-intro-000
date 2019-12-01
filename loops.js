@@ -14,5 +14,5 @@ function whileLoop(n) {
 }
 
 fucntion doWhileLoop(num) {
-  
+
 }
