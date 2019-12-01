@@ -13,6 +13,6 @@ function whileLoop(n) {
   return "done"
 }
 
-fucntion doWhileLoop(num) {
+function doWhileLoop(num) {
 
 }
